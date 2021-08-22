@@ -20,17 +20,18 @@ work(){
 	findchand()
 	put_chand()
 	break_chand1()
-	Sleep, 150
+	sleep, 500
 	move_right()
 	
 	findchand()
 	put_chand()
 	break_chand2()
-	Sleep,150
+	sleep, 1000
 	move_left()
 	
 	check_seed()
-	Sleep, 150
+	
+	
 }
 	
 	;block_1 = 101,384

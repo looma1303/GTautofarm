@@ -20,13 +20,13 @@ work(){
 	findchand()
 	put_chand()
 	break_chand1()
-	sleep, 450
+	sleep, 500
 	move_right()
 	
 	findchand()
 	put_chand()
 	break_chand2()
-	sleep, 450
+	sleep, 800
 	move_left()
 	
 	check_seed()
